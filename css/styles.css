@@ -596,6 +596,21 @@ nav a:focus {
     border-bottom: 1px solid rgba(224, 115, 80, 0.2);
 }
 
+.lightbender-intro-video {
+    max-width: 800px;
+    margin: 0 auto 40px auto;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+    border: 1px solid rgba(224, 115, 80, 0.25);
+}
+
+.lightbender-intro-video video {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
 .creative-scroll {
     display: flex;
     gap: 25px;
