@@ -48,6 +48,18 @@ temp/
 coverage/
 .nyc_output/
 
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+.venv
+*.egg-info/
+
 # Misc
 *.bak
 *.backup
