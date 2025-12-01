@@ -1,0 +1,8 @@
+# Robots.txt for Rank Zone
+# https://rankzone.studio
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://rankzone.studio/sitemap.xml
